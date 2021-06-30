@@ -1,5 +1,4 @@
 {
-  "homepage": "http://skol-coder.github.io/Card-Matching-Game-Reactjs",
   "name": "react",
   "version": "1.0.0",
   "description": "React example starter project",
@@ -17,8 +16,6 @@
     "typescript": "4.1.3"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
